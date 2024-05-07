@@ -1,2 +1,3 @@
-# conversion-homepage
-A simple conversion home page that leads to the conversion app
+# Goods-cal
+https://kkebuka.github.io/Goods-cal/ is the link to the site
+A web based app that calculates goods for traders buying from abroad
