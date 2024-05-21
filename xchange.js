@@ -26,4 +26,7 @@ class XchangeRate{
     }
 }
 
+const xchangeRate = new XchangeRate()
+
+xchangeRate.todayRate()
 
