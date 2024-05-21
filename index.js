@@ -1,3 +1,4 @@
+
 const calculate = document.querySelector(".cal");
 const image = document.querySelector("#img-container");
 const result = document.querySelector(".result");    
@@ -133,15 +134,9 @@ function calculateResults(){
 
     }
 
-     
-    
-    
-    
-    // console.timeEnd('hello')
     
 }
 
-const xchangeRate = new XchangeRate
 
-xchangeRate.todayRate()
+
 
